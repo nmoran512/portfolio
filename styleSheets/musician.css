@@ -11,6 +11,9 @@ body, html {
     color: whitesmoke;
     font-family: sans-serif;
 }
+h3{
+    text-shadow: 0 0 4px black;
+}
 header{
     background-color: #080D10;
     color: whitesmoke;
